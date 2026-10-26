@@ -1,0 +1,12 @@
+{
+  "name": "Developer Portfolio",
+  "description": "A responsive personal portfolio webpage built with HTML and Tailwind CSS, featuring sections for introduction, about, projects, and contact.",
+  "entry": "index.html",
+  "multiPage": false,
+  "files": [
+    "index.html",
+    "metadata.json"
+  ],
+  "tailwind": { "source": "play-cdn" },
+  "generatedAt": "2024-07-30T12:00:00Z"
+}
